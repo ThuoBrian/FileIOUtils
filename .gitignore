@@ -34,5 +34,9 @@ logs/
 # Input files
 input_text.rtf
 
+# .env files
+.env.*
+
+
 # RustRover (JetBrains IDE)
 # For more options, see https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
