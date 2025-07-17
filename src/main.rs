@@ -30,6 +30,6 @@ fn main() {
     let mut text_content: String = String::new();
 
     f.read_to_string(&mut text_content)
-        .expect("Could not extract text from the .txt file");
+        .expect("Could not extract text from the .rft file");
     println!("\nThe file contents as below:: \n\n{}", text_content);
 }
