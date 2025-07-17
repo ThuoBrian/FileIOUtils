@@ -54,3 +54,6 @@ logs/
 
 # MakeFile
 **/Makefile
+
+# input files
+input_text.rtf
